@@ -41,11 +41,13 @@ const JumbotronExamples = () => {
           <iframe
             src="https://explorer.helium.com/"
             title="Helium Network Explorer"
-            width="100%"
-            height="600"
+            width="200px"
+            height="200px"
             style={{ border: 'none' }}
           ></iframe>
-        </div>
+        </div>ary Side Bar.
+        
+        
       </div>
       <div className="b-example-divider"></div>
 
@@ -70,10 +72,10 @@ const JumbotronExamples = () => {
             className="position-absolute top-0 end-0 p-3 m-3 btn-close bg-secondary bg-opacity-10 rounded-pill"
             aria-label="Close"
           ></button>
-          <h1 className="text-body-emphasis">Roberts First Site</h1>
+          <h1 className="text-body-emphasis">Web3 Schools</h1>
           <iframe
-            src="https://robertsloan22.github.io/RobertSloan22.io/"
-            title="Roberts Site"
+            src="https://www.w3schools.com"
+            title="WEB3-Schools"
             width="100%"
             height="500"
             style={{ border: '5PX' }}

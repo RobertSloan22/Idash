@@ -16,12 +16,11 @@ const Carousel = () => {
           <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
           <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
           <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
-          <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="5" aria-label="Slide 1"></button>
 
         </div>
         <div className="carousel-inner">
           <div className="carousel-item active">
-          </div>
+        </div>
           <CarouselItem
             imgSrc={SRXyolo1}
             captionHeader="Vehicle proximity alert system."

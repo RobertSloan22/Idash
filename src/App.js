@@ -1,23 +1,22 @@
 import React from 'react';
-import Navigation from './components/Navbar';
-import Footer from './components/Footer';
+import BootNavbar from './components/BootNavbar';
 import JumbotronExamples from './components/JumbotronExamples';
 import JustHeroes from './components/JustHeroes';
-import Carousel from './components/Carousel';
+import BootCarousel from './components/BootCarousel';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
-import SideMenu from './components/SideMenu';
 import TextExtractor from './components/TextExtractor';
+import Thumbnails from './components/Thumbnails';
 
 const App = () => {
   return (
     <>
-      <Navigation />
+      <BootNavbar />
       <JustHeroes />
-      <Carousel />
-      <SideMenu />
+      <BootCarousel />
+      <Thumbnails />
       <JumbotronExamples />
+      <Thumbnails />
       <TextExtractor />
-      <Footer />
     </>
   );
 };
