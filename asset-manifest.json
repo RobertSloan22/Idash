@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/RobertSloan22.github.io/Dashboard-APP.git/static/css/main.cfda75e3.css",
+    "main.js": "/RobertSloan22.github.io/Dashboard-APP.git/static/js/main.414710ef.js",
+    "static/js/787.37297e74.chunk.js": "/RobertSloan22.github.io/Dashboard-APP.git/static/js/787.37297e74.chunk.js",
+    "static/media/Alerted1.png": "/RobertSloan22.github.io/Dashboard-APP.git/static/media/Alerted1.f58a93dc7bf910ae918a.png",
+    "static/media/SRXyolo1.png": "/RobertSloan22.github.io/Dashboard-APP.git/static/media/SRXyolo1.cac143144cd03e76878e.png",
+    "static/media/SRXyolo2.png": "/RobertSloan22.github.io/Dashboard-APP.git/static/media/SRXyolo2.ad269ea1f2816dca3fd6.png",
+    "static/media/reactjs.jpg": "/RobertSloan22.github.io/Dashboard-APP.git/static/media/reactjs.a6a1290f26b4d9fd935b.jpg",
+    "static/media/mit.jpg": "/RobertSloan22.github.io/Dashboard-APP.git/static/media/mit.5f192b154fb4460ce501.jpg",
+    "static/media/machinelearning.jpg": "/RobertSloan22.github.io/Dashboard-APP.git/static/media/machinelearning.dece194c4df04b2b90ce.jpg",
+    "index.html": "/RobertSloan22.github.io/Dashboard-APP.git/index.html",
+    "main.cfda75e3.css.map": "/RobertSloan22.github.io/Dashboard-APP.git/static/css/main.cfda75e3.css.map",
+    "main.414710ef.js.map": "/RobertSloan22.github.io/Dashboard-APP.git/static/js/main.414710ef.js.map",
+    "787.37297e74.chunk.js.map": "/RobertSloan22.github.io/Dashboard-APP.git/static/js/787.37297e74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfda75e3.css",
+    "static/js/main.414710ef.js"
+  ]
+}
